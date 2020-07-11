@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 **This is Saksham Garg**, currently pursuing my B.Tech in Computer science and Technology specialization in Cyber security and forensics.<br><br>
 ### ABOUT
 
--I am a 2nd year student at UPES, Dehradun<br>
--Loves to code<br>
--Love exploring in domain of digital forensics and security.<br>
+-I am a 2nd year student at UPES, Dehradun👨‍🎓<br>
+-Loves to code 👨‍💻<br>
+-Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
 -An Android developer<br>
 -ICSI certified network security specialist<br>
 -CCA certified JAVA level-1 and level-2 <br>
-<br><br>
 
 #### My projects
 
@@ -37,11 +36,11 @@ Here are some ideas to get you started:
 -Notes App<br>
 -Stopwatch App<br>
 -Hotel Management project (Java)
-<br><br>
+<br>
 
 #### Reach Me
 Link to my LinkedIn profile: https://www.linkedin.com/in/saksham-garg-59b60b1a4/<br>
-Mail me at: 500068818@stu.upes.ac.in
+Mail me at: 500068818@stu.upes.ac.in📩
 <br><br>
 
 
