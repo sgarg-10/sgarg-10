@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**This is Saksham Garg**, currently pursuing my B.Tech in Computer science and Technology specialization in Cyber security and forensics.
+**This is Saksham Garg**, currently pursuing my B.Tech in Computer science and Technology specialization in Cyber security and forensics.<br><br>
+
+<p align="center">
+<img src=https://user-images.githubusercontent.com/65415517/87225653-4ead6880-c3ac-11ea-8c08-39ab535c3ef6.png>
+</p><br><br><br>
