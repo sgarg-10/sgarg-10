@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋<br>
 
 <!--
 **sgarg-10/sgarg-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
