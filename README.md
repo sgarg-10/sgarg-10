@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img src=https://user-images.githubusercontent.com/65415517/87281065-774e7300-c510-11ea-9191-e5cf9ebd36b9.png>
 </p>
+
 ### Hi there 👋<br>
 **This is Saksham Garg**, currently pursuing my B.Tech in Computer science and Technology specialization in Cyber security and forensics.<br><br>
+
 ### ABOUT
 
 -I am a 2nd year student at UPES, Dehradun👨‍🎓<br>
