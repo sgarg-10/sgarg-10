@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/65415517/87225824-4d307000-c3ad-11ea-8dab-570693c0fba3.png>
+<img src=https://user-images.githubusercontent.com/65415517/87280814-2fc7e700-c510-11ea-9e34-2dc4f090805c.png>
 </p><br><br><br>
 
 **This is Saksham Garg**, currently pursuing my B.Tech in Computer science and Technology specialization in Cyber security and forensics.<br><br>
