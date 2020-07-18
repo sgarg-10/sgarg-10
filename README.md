@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### ABOUT
 
--I am a 2nd year student at UPES, Dehradun👨‍🎓<br>
--Loves to code 👨‍💻<br>
+-A 2nd year student at UPES, Dehradun👨‍🎓<br>
+-Love to code 👨‍💻<br>
 -Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
 -An Android developer<br>
 -ICSI certified network security specialist<br>
