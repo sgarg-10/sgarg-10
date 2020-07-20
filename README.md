@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <img src=https://user-images.githubusercontent.com/65415517/87281065-774e7300-c510-11ea-9191-e5cf9ebd36b9.png>
 </p>
 
-### Hi there 👋<br>
+### Hello Everyone 👋<br>
 **This is Saksham Garg**, currently pursuing my B.Tech in Computer science and Technology specialization in Cyber security and forensics.<br><br>
 
 ### ABOUT
 
--A 2nd year student at UPES, Dehradun👨‍🎓<br>
+-2nd year student at UPES, Dehradun👨‍🎓<br>
 -Love to code 👨‍💻<br>
 -Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
--An Android developer<br>
+-An Android developer (specialized in User Interface)<br>
 -ICSI certified network security specialist<br>
 -CCA certified JAVA level-1 and level-2 <br>
 
