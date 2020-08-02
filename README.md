@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 #### My projects
 
--Flappy bird clone<br>
+-Flappy bird clone (Android Project) <br>
 -Notes App<br>
 -Stopwatch App<br>
 -Hotel Management project (Java)
