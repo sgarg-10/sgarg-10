@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### ABOUT
 
 -2nd year student at UPES, Dehradun👨‍🎓<br>
--Intern @ CyberKingsIndia
+-Intern @ CyberKingsIndia <br>
 -Love to code 👨‍💻<br>
 -Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
 -An Android developer (specialized in User Interface)<br>
