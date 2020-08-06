@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### ABOUT
 
--2nd year student at UPES, Dehradun👨‍🎓<br>
+-3rd year student at UPES, Dehradun👨‍🎓<br>
 -Penetration Testing Intern @ CyberKingsIndia <br>
 -Love to code 👨‍💻<br>
 -Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
