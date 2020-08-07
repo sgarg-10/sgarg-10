@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 -ICSI certified network security specialist<br>
 -CCA certified JAVA level-1 and level-2 <br>
 
+#### Experience
+
+-Penetration Tester Intern at CyberKingsIndia<br>
+-Student mentor at NASSCOM Foundation
+-Btech in Computer Science and technology in Cyber Security and forensics
+
 #### My projects
 
 -Flappy bird clone (Android Project) <br>
