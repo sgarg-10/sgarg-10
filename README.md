@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 #### Experience
 
 -Penetration Tester Intern at CyberKingsIndia<br>
--Student mentor at NASSCOM Foundation
+-Student mentor at NASSCOM Foundation<br>
 -Btech in Computer Science and technology in Cyber Security and forensics
 
 #### My projects
