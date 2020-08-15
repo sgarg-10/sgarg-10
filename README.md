@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -Student mentor at NASSCOM Foundation<br>
 -Btech in Computer Science and technology in Cyber Security and forensics<br>
 
-#### My projects
+#### My Projects
 
 -Flappy bird clone (Android Project) <br>
 -Notes App<br>
