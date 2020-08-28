@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 -An Android developer (specialized in User Interface)<br>
 -ICSI certified network security specialist<br>
 -CCA certified JAVA level-1 and level-2<br>
+-CTF Player
 
 #### Experience
 
