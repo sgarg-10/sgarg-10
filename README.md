@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 -3rd year student at UPES, Dehradun👨‍🎓<br>
 -Penetration Testing Intern @ CyberKingsIndia <br>
--CloudSEK XVigil Professional <br>
+-CloudSEK XVigil Professional<br>
 -Love to code 👨‍💻<br>
 -Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
 -An Android developer (specialized in User Interface)<br>
