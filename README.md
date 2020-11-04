@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###  ABOUT ME
 
 -3rd year student at UPES, Dehradun👨‍🎓<br>
--Penetration Testing Intern @ CyberKingsIndia <br>
+-Penetration Testing Intern Bug hunter @ CyberKingsIndia <br>
 -CloudSEK XVigil Professional<br>
 -Love to code 👨‍💻<br>
 -Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
