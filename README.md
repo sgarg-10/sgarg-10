@@ -27,7 +27,7 @@ Here are some ideas to get you started
 -Love to code 👨‍💻<br>
 -Love exploring in domain of digital forensics and security🕵️‍♂️.<br>
 -An Android developer (specialized in User Interface)<br>
--ICSI certified network security specialist<br>
+-ICSI certified network security specialist <br>
 -CCA certified JAVA level-1 and level-2 <br>
 -CTF Player<br>
 -THM Explorer <br>
