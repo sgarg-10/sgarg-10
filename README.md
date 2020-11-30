@@ -29,7 +29,7 @@ Here are some ideas to get you started
 -ICSI certified network security specialist <br>
 -CCA certified JAVA level-1 and level-2 <br>
 -CTF Player<br>
--THM Explorer <br>
+-THM Explorer<br>
 
 ####  Experience
 
