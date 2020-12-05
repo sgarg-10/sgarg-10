@@ -35,7 +35,7 @@ Here are some ideas to get you started
 
 -Penetration Tester Intern at CyberKingsIndia (August,2020-Present)<br>
 -Student mentor at NASSCOM Foundation<br>
--Btech in Computer Science and technology in Cyber Security and forensics<br>
+-Btech in Computer Science and technology in Cyber Security and forensics 
 
 #### My Projects
 
